@@ -64,3 +64,5 @@ Under the following terms:
 - NonCommercial — You may not use the material for commercial purposes.
 
 License details: https://creativecommons.org/licenses/by-nc/4.0/
+
+[![DOI](https://zenodo.org/badge/992671422.svg)](https://doi.org/10.5281/zenodo.15546525)
