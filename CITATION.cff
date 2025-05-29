@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this tool in teaching, learning, or derivative work, please cite it using the metadata below."
+title: "LFT Case Study – Interactive Clinical Interpretation Tool"
+authors:
+  - family-names: Price
+    given-names: Claire Louise
+    affiliation: Swansea University Medical School, Swansea SA2 8PP UK
+    orcid: "https://orcid.org/0000-0002-6045-4835" 
+date-released: 2025-05-29
+version: "1.0"
+license: "CC-BY-NC-4.0"
+url: "https://claireprice.github.io/LFT-Case-Study/"
+repository-code: "https://github.com/claireprice/LFT-Case-Study"  
+keywords:
+  - liver function tests
+  - hepatology
+  - clinical biochemistry
+  - interactive learning
+  - case-based education
+  - medical education
+abstract: >
+  The LFT Case Study is a browser-based educational tool that supports learners in interpreting liver
+  function test (LFT) results through a guided clinical reasoning pathway. It presents realistic cases and 
+  structured decision-making tasks to help users identify patterns of liver dysfunction, including hepatocellular 
+  injury and cholestasis. Designed for use in medical and biomedical education, this tool enhances diagnostic skills 
+  and supports active learning. For educational use only.
